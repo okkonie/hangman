@@ -1,2 +1,2 @@
 # Hangman game
-Little command line hangman game for schoolwork.
+Little hangman game for schoolwork.
